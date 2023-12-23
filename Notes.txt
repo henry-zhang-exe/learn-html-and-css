@@ -1,0 +1,19 @@
+----Day 1----
+<h1></h1> - header, big
+<p></p> - paragraph, small
+<img> - image
+    src - image link or file name in the same folder
+    width - how much of the webpage it fills
+<div></div> - divider
+<button></button> - clickable button
+<input> - allows user to input data
+    type - what sort of data is expected
+    placeholder - text in the input box
+<a></a> - anchor, goes to another page when clicked. Can use in another tag
+    href - the other page the anchor goes to
+<head></head> - contains metadata
+<body></body> - contains the data of the page
+<ol></ol> - ordered list
+<ul></ul> - unordered list
+<li></li> - list item
+
