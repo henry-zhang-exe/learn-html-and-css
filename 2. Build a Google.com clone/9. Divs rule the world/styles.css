@@ -1,10 +1,14 @@
-img {
+div {
     margin-top: 100px;
-    display: block;
-    width: 300px;
 }
 
 input {
     display: block;
     width: 400px;
 }
+
+img {
+    display: block;
+    width: 300px;
+}
+
