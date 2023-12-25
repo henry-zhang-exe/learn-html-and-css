@@ -1,4 +1,5 @@
 ----Day 1----
+HTML
 <h1></h1> - header, big
 <p></p> - paragraph, small
 <img> - image
@@ -17,3 +18,17 @@
 <ul></ul> - unordered list
 <li></li> - list item
 
+----Day 2----
+CSS
+- Css determines the style of the HTML. It can determine style of all instances of a certain
+element, or on a per class basis
+- Can use font-size and font-type
+- Can make elements inline or block (horizontal or verticle)
+- Margins are the space between element and four sides
+- Classes only determine style of one class of HTML element
+- Padding is the distance between words in the elment vs the boundary of the element
+- Border can have size, color, type
+- Border radius curves the corners
+- Text-align aligns text
+- Create a flexbox on an element by using display: flex
+- Center flexbox by using justify-content: center
