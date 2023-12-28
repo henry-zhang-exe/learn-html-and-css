@@ -32,3 +32,12 @@ element, or on a per class basis
 - Text-align aligns text
 - Create a flexbox on an element by using display: flex
 - Center flexbox by using justify-content: center
+
+----Day 3----
+- Need to use filepath
+- Alt tag for metadata
+- Flex property is used once per child element
+- Are able to add multiple classes per element, add space in between classes
+- Justify content: space-evenly causes the space to be distributed evenly
+amongst the children
+- 
