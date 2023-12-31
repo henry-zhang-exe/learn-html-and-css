@@ -40,4 +40,6 @@ element, or on a per class basis
 - Are able to add multiple classes per element, add space in between classes
 - Justify content: space-evenly causes the space to be distributed evenly
 amongst the children
-- 
+- Web safe fonts causes 
+- Font family lists priority fonts
+- Can write margin values as shorthand
