@@ -43,3 +43,13 @@ amongst the children
 - Web safe fonts causes 
 - Font family lists priority fonts
 - Can write margin values as shorthand
+
+----Day 4----
+- Adding background image using CSS by using url("")
+- background-size: cover makes the background image scale to the browser
+- Can use Google fonts from the internet
+- font-family: inheirit makes the element able to inheirit the font style
+- Can use font-family in CSS and use a local font file
+- <span></span> tag is used to single out words in elements.
+Similar to <div> tags, except that divs create a new line
+- text-decoration underline CSS property to underline text
