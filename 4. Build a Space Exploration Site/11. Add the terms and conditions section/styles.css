@@ -13,10 +13,9 @@ tag's default margin.
 
 body {
     color: #82a5ca;
-    background-image: url("images/galaxy.webp");
-    background-size: cover;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
+    margin: 0;
 }
 
 #main-logo {
@@ -35,4 +34,16 @@ body {
 .underline {
     border-bottom: 4px solid white;
 }
+
+.hero {
+    
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
    
+.bot{
+    padding-top: 20px;
+    height: 40px;
+}
