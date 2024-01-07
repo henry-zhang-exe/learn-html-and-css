@@ -56,3 +56,9 @@ Similar to <div> tags, except that divs create a new line
 - id is the same as class except id can only be used once
 - background-image can use gifs too
 - text-shadow has two offsets, a blur value, and a color
+
+----Day 5----
+- Use border-radius to make images round
+- Can use multiple element selectors in CSS
+- align-items: center how items are located on the y axis
+- align-items default is stretch
