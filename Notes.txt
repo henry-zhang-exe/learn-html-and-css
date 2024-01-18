@@ -62,3 +62,9 @@ Similar to <div> tags, except that divs create a new line
 - Can use multiple element selectors in CSS
 - align-items: center how items are located on the y axis
 - align-items default is stretch
+- flex-direction chooses how items in flexbox are aligned
+- Using div:hover in CSS changes properties when something is hovered over
+- Id properties can override class properties
+- linear-gradient(,) creates a gradient up to down with two colors
+
+----Day 6----

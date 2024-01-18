@@ -67,6 +67,8 @@ h1, h2, h3, h4, p {
 }
 
 
+
+
 /*
 Challenge:
 Create the "genius" and "badass" GIFt sections.
@@ -77,3 +79,11 @@ If I had to describe you with ONE word 👇
 The only person as badass as you 💪
 
 */
+
+#gift-img-genius:hover {
+    background-image: url("images/genius.gif");
+}
+
+#gift-img-badass:hover {
+    background-image: url("images/badass.gif");
+}
