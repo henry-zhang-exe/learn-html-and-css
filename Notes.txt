@@ -40,4 +40,5 @@ element, or on a per class basis
 - Are able to add multiple classes per element, add space in between classes
 - Justify content: space-evenly causes the space to be distributed evenly
 amongst the children
-- 
+- Web safe fonts are fonts that exist in most web browsers
+- Font stacks have priority for fonts
