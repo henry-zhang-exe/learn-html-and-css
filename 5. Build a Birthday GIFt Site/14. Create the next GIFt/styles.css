@@ -48,7 +48,7 @@ h1, h2, h3, h4, p {
     margin-top: 0;
 }
 
-.gift-img {
+.gift-img1 {
     margin: 0 auto;
     width: 400px;
     height: 400px;
@@ -58,7 +58,17 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-.gift-img:hover {
+.gift-img2 {
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+}
+
+.gift-img1:hover {
     background-image: url("images/happy.gif");
 }
 
@@ -74,3 +84,7 @@ background-image(s) on :hover. Each GIFt will need a
 unique id that controls which background image that 
 should be shown when hovering over the element.
 */
+
+.gift-img2:hover {
+    background-image: url("images/hot.gif");
+}

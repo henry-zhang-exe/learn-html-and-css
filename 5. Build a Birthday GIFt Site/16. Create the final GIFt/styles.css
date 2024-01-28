@@ -87,3 +87,10 @@ Text:
 This one's for you, my friend 🥂
 */
 
+#gift-img-final {
+    height: 200px;
+}
+
+#gift-img-final:hover {
+    background-image: url("images/cheers.gif");
+}
